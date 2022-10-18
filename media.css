@@ -1,0 +1,22 @@
+@media screen and (min-width:500px) {
+    .box{
+        max-width: 600px;
+        min-width: 450px;
+        max-height: 1000px;
+        min-height: 350px;
+        background-position-y: 80%;
+        padding: 1rem 2rem;
+        background-image: url(images/pattern-divider-desktop.svg);
+
+        
+    }
+    .box .imgg{
+        width: 50px;
+        height: 50px;
+        top: 90%;
+    }
+    .box img{
+        width: 25px;
+
+    }
+}
